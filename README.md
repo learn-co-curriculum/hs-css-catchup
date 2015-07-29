@@ -1,8 +1,4 @@
----
-tags: kids, css
-languages: css
-type: catch-up
----
+
 
 ##Missed the CSS lesson? NBD
 
